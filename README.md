@@ -16,6 +16,8 @@
   <br>
   
  <h4> My name is Ana Jesus, thanks for visiting my GitHub profile. </h4>
+ 
+
 
 <p>✨ I am a Junior Developer expanding my skills everyday✨</p>
 
@@ -79,3 +81,10 @@
     </a>
   </p>
 
+<p>
+  I'm an archaeologist passionate about unlocking past secrets through plants, known as archaeobotany.
+
+With a PhD bridging humanities and science, I began coding during my studies, using R to uncover prehistorical food mysteries. Recently, I shifted towards web development, seamlessly blending my expertise into the digital landscape. I'm driven by diverse interests, exploring plant history and ancient societies, especially the enigmatic prehistoric period.
+
+As an avid reader and committed vegan, I'm devoted to unearthing stories from the past while nurturing a sustainable present and future.
+</p>
