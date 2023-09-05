@@ -93,6 +93,23 @@
             alt="Ana's GitHub Stats" />
     </a>
   </p>
+<br>
+  
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aachal28&theme=dark&show_icons=true"/>
+  </div>
+<br>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aachal28&bg_color=0e0e0e&hide_border=true"/>
+<br>
+</div>
+<br>
+
+</details>
+<br>
+  
 
 <p>
   I'm an archaeologist passionate about unlocking past secrets through plants, known as archaeobotany.
