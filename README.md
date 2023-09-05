@@ -77,22 +77,15 @@
 
 
 
- <p>
+<div align="center">
     <a href="https://github.com/archeana">
         <img ### GitHub Statstyle="margin:0.5rem"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=archeana&show_icons=true&theme=radical&layout=compact"
             alt="Ana's GitHub Languages" />
     </a>
- </p>
+  </div>
 
- <p>
-    <!-- my github stats -->
-    <a href="https://github.com/archeana">
-        <img align="center" style="margin:0.5rem"
-            src="https://github-readme-stats.vercel.app/api?username=archeana&show_icons=true&theme=radical"
-            alt="Ana's GitHub Stats" />
-    </a>
-  </p>
+
 <br>
   
 <div align="center">
