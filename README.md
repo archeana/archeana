@@ -96,13 +96,13 @@
 <br>
   
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username==archeana&theme=dark&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?user==archeana&theme=dark&show_icons=true"/>
   </div>
 <br>
 
 <div align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username==archeana&bg_color=0e0e0e&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==archeana&bg_color=0e0e0e&hide_border=true"/>
 <br>
 </div>
 <br>
