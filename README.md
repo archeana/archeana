@@ -96,6 +96,11 @@
 <div align="center">
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==archeana&bg_color=0e0e0e&hide_border=true"/>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=archeana&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+
+
 <br>
 </div>
 <br>
