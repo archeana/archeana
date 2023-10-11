@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/ana-jesus-1644374a/">
     <img alt="Ana linkedin" src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=800020" />
 </a>
-<a href="https://twitter.com/AnaCSouJesus">
-    <img alt="Ana twitter" src="https://icongr.am/devicon/twitter-original.svg?size=40&color=800020" />
-</a>
   </p>
 
   <br>
