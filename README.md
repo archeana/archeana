@@ -12,7 +12,7 @@
 
   <br>
   
- <h4> My name is Ana Jesus, thanks for visiting my GitHub profile. </h4>
+ <p> My name is Ana Jesus, thanks for visiting my GitHub profile. <p>
  
 
 
@@ -27,6 +27,7 @@
  <h2>✨ I am currently learning:</h2>
 
   <ul>
+    <li> 30 Day Vanilla JS <a href="https=//archeana.github.io/JS30/" target="_blank">here</a> </li>
     <li> React </li>
     <li> UX and UI Design </li>
  </ul>
