@@ -3,7 +3,9 @@
 ### Hello there, I'm Ana👋
 
 <br>
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=archeana&&label=PROFILE+VIEWS&color=a54299&style=for-the-badge&abbreviated=true" alt="archeana" /> </p>
+  
+  
   <p >
 <a href="https://www.linkedin.com/in/ana-jesus-1644374a/">
     <img alt="Ana linkedin" src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=800020" />
