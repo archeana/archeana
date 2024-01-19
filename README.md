@@ -108,9 +108,11 @@
   
 
 <p>
-  I'm an archaeologist passionate about unlocking past secrets through plants, known as archaeobotany.
+ Hello, I'm Ana, an archaeologist turned web developer with a PhD in archaeobotany. Over a decade, I've explored archaeological sites across Europe and worked in different labs and research groups.
 
-With a PhD bridging humanities and science, I began coding during my studies, using R to uncover prehistorical food mysteries. Recently, I shifted towards web development, seamlessly blending my expertise into the digital landscape. I'm driven by diverse interests, exploring plant history and ancient societies, especially the enigmatic prehistoric period.
+🌱 Passionate about plants, from their prehistoric uses to modern herbalism.
+🌍 Explored diverse landscapes from Portugal to North Macedonia.
+📊 Published four peer-reviewed articles, skilled in data analysis.
 
-As an avid reader and committed vegan, I'm devoted to unearthing stories from the past while nurturing a sustainable present and future.
+I'm open to diverse opportunities, combining my expertise in web development and archaeology. Feel free to contact me.
 </p>
