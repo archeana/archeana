@@ -17,10 +17,6 @@
  <p> My name is Ana Jesus, thanks for visiting my GitHub profile. <p>
  
 
-
-<p>✨ I am a Junior Developer expanding my skills everyday✨</p>
-
-
  <p>📫 Location: Switzerland</p>
  <p>✨ Check out my portfolio website <a href="https://anajesus.netlify.app/" target="_blank">here</a>.✨</p>
 
@@ -29,9 +25,7 @@
  <h2>✨ I am currently learning:</h2>
 
   <ul>
-    <li> 30 Day Vanilla JS <a href="https://archeana.github.io/JS30/" target="_blank">here</a> </li>
-    <li> React </li>
-    <li> UX and UI Design </li>
+    <li>  JS <a href="https://archeana.github.io/JS30/" target="_blank">here</a> </li>
  </ul>
 
  <br> 
@@ -108,11 +102,11 @@
   
 
 <p>
- Hello, I'm Ana, an archaeologist turned web developer with a PhD in archaeobotany. Over a decade, I've explored archaeological sites across Europe and worked in different labs and research groups.
+ Hello, I'm Ana, an archaeologist turned web developer with a PhD in archaeobotany. Over a decade, I've explored archaeological sites across Europe and worked in different labs and research groups.</p>
 
-🌱 Passionate about plants, from their prehistoric uses to modern herbalism.
-🌍 Explored diverse landscapes from Portugal to North Macedonia.
-📊 Published four peer-reviewed articles, skilled in data analysis.
+<p>🌱 Passionate about plants, from their prehistoric uses to modern herbalism.</p>
+<p>🌍 Explored diverse landscapes from Portugal to North Macedonia.</p>
+<p>📊 Published four peer-reviewed articles, skilled in data analysis.</p>
 
-I'm open to diverse opportunities, combining my expertise in web development and archaeology. Feel free to contact me.
+<p>I'm open to diverse opportunities, combining my expertise in web development and archaeology. Feel free to contact me.
 </p>
