@@ -25,7 +25,7 @@
  <h2>✨ I am currently learning:</h2>
 
   <ul>
-    <li>  JS <a href="https://archeana.github.io/JS30/" target="_blank">here</a> </li>
+    <li> </li>
  </ul>
 
  <br> 
