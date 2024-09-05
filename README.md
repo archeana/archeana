@@ -18,30 +18,9 @@
  
 
  <p>📫 Location: Switzerland</p>
- <p>✨ Check out my portfolio website <a href="https://anajesus.netlify.app/" target="_blank">here</a>.✨</p>
 
- <br> 
 
- <h2>✨ I am currently learning:</h2>
 
-  <ul>
-    <li> </li>
- </ul>
-
- <br> 
-
-  <h2>✨ My latest projects:</h2>
-
-  <ul>
-    <li> (Group project) Educational website for a MOOC challenge  </li>
-    <li> (Group project) JS website for a MOOC challenge </li>
-    <li> (solo project) recipe finder project for the Intro to Python and apps </li>
-    <li> (solo project) Portfolio website for bootcamp requirement </li>
-    <li> (Group project) website final project for the Intro to Web Dev course </li>
-    
- </ul>
-
- <br> 
 
 ### My Stack
 
