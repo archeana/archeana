@@ -33,6 +33,6 @@ src="https://img.shields.io/github/followers/archeana?logo=github&style=for-the-
 </a> -->
 
 <a href="https://github.com/archeana" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archeana&langs_count=10&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archeana&&langs_count=6&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
