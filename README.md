@@ -7,7 +7,7 @@ My name is Ana Jesus
 Frontend developer with a passion for data visualization, creating engaging and intuitive interfaces. Interested in projects that connect with education, culture, and meaningful storytelling.
 
 *   🌍  I'm based in Switzerland
-*   🖥️  See my portfolio at [Ana Jesus](http://anajesus.netlify.app/)
+*   🖥️  See my portfolio at [Ana Jesus](https://anajesus.vercel.app/)
 *   🧠  I'm learning d3.
 *   🤝  I'm open to collaborating on interesting projects.
 
