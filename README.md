@@ -8,7 +8,6 @@ Frontend developer with a passion for data visualization, creating engaging and 
 
 *   🌍  I'm based in Switzerland
 *   🖥️  See my portfolio at [Ana Jesus](https://anajesus.vercel.app/)
-*   🧠  I'm learning d3.
 *   🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.github.com/archeana" target="_blank" rel="noreferrer"><img
