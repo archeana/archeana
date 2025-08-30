@@ -1,7 +1,6 @@
 ![Ana Jesus Linkedin](https://github.com/archeana/archeana/assets/2192305/b53f9af3-6b22-42dd-9d44-6c94ae87486b)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Ana Jesus 
+Hi! My name is Ana Jesus 
 =================================================================================================================================
 
 Frontend developer with a passion for data visualization, creating engaging and intuitive interfaces. Interested in projects that connect with education, culture, and meaningful storytelling.
